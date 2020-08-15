@@ -1,2 +1,2 @@
 # SimpleSeries
-Truncating an infinite series
+Truncating infinite series

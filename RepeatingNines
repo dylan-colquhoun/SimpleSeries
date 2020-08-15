@@ -1,0 +1,11 @@
+Int termsToEvaluate = 13;
+Float sumOfNTerms;
+
+nthTermInSeries = 9 / ( 10 ^ numberOfTerms );
+
+while(
+	sumOfNTerms += nthTermInSeries;
+	termsToEvaluate --;
+do( termsToEvaluate > 0 )
+
+print( 'Sum of series after ' + termsToEvaluate + ' Terms: ' + sumOfNTerms )
